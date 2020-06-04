@@ -1,2 +1,2 @@
 # NbodySimulation
-CUDA (Fortran), C#
+Fortran, OpenACC
